@@ -16,12 +16,12 @@
     "description": "随机数生成器，支持 1d6, 1d20 等指令，TRPG 必备。",
     "repo": "https://gitee.com/yourname/kamipro-plugin-dice.git",
     "icon": "casino"
-  }，
+  },
   {
     "id": "com.kamipro.ces",
     "name": "测试",
     "version": "1.2.0",
-    "author": "xiaoli",
+    "author": "小黎",
     "description": "随机数生成器，支持 1d6, 1d20 等指令，TRPG 必备。",
     "repo": "https://gitee.com/yourname/kamipro-plugin-dice.git",
     "icon": "casino"
