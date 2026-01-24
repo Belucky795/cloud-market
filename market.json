@@ -1,29 +1,14 @@
 [
   {
-    "id": "com.kamipro.clock",
-    "name": "报时小助手",
+    "id": "epay_service",
+    "name": "易支付服务",
     "version": "1.0.0",
-    "author": "KamiPro Team",
-    "description": "一个简单的整点报时插件，演示了定时任务的使用。",
-    "repo": "https://gitee.com/yourname/kamipro-plugin-clock.git",
-    "icon": "schedule"
-  },
-  {
-    "id": "com.kamipro.dice",
-    "name": "投骰子",
-    "version": "1.2.0",
-    "author": "Community",
-    "description": "随机数生成器，支持 1d6, 1d20 等指令，TRPG 必备。",
-    "repo": "https://gitee.com/yourname/kamipro-plugin-dice.git",
-    "icon": "casino"
-  },
-  {
-    "id": "com.kamipro.ces",
-    "name": "测试",
-    "version": "1.2.0",
     "author": "小黎",
-    "description": "随机数生成器，支持 1d6, 1d20 等指令，TRPG 必备。",
-    "repo": "https://gitee.com/yourname/kamipro-plugin-dice.git",
-    "icon": "casino"
+    "description": "提供易支付接口服务，供其他插件调用进行支付操作",
+    "repo": "https://github.com/Belucky795/epay_service.git",
+    "icon": "schedule"
+    "plugin_type": "global"
+    "tags": ["支付", "全局服务"],
+    "updated_at": "2026-01-24"
   }
 ]
