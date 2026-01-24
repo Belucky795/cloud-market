@@ -6,8 +6,8 @@
     "author": "小黎",
     "description": "提供易支付接口服务，供其他插件调用进行支付操作",
     "repo": "https://github.com/Belucky795/epay_service.git",
-    "icon": "schedule"
-    "plugin_type": "global"
+    "icon": "schedule",
+    "plugin_type": "global",
     "tags": ["支付", "全局服务"],
     "updated_at": "2026-01-24"
   }
