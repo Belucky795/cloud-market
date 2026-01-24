@@ -1,0 +1,9 @@
+{
+    "id": "epay_service",
+    "name": "易支付服务",
+    "version": "1.0.0",
+    "author": "KamiPro",
+    "description": "提供易支付接口服务，供其他插件调用进行支付操作",
+    "main": "main.py",
+    "plugin_type": "global"
+}
